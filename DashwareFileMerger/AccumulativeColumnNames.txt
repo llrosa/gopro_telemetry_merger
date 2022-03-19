@@ -1,0 +1,11 @@
+﻿// Note that on each file split, you'll lose one line worth of incremental value since each file starts at zero.
+// There's no way to guess what incremental value should have accumulated since the previous file, unlike time columns 
+// where the value to increment (instead of adding zero) is known (or at least calculable, assuming there's no jitter).
+Total Ascent Meters
+Total Descent Meters
+Total Ascent Feet
+Total Descent Feet
+Distance Feet
+Distance Meters
+Distance Miles
+Distance Kilometers

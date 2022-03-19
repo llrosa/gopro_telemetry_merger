@@ -1,0 +1,4 @@
+﻿// in addition to the column names below, ****any column ending in "[Time]" will be adjusted****
+GlobalTime
+Hero7 Black:GPSU[0]
+Hero7 Black:TSMP[0]
